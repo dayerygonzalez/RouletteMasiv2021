@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\RouletteMezubo\\RouletteMezubo.csproj": {}
+  },
+  "projects": {
+    "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Business\\Roulette.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Business\\Roulette.Business.csproj",
+        "projectName": "Roulette.Business",
+        "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Business\\Roulette.Business.csproj",
+        "packagesPath": "C:\\Users\\DanneyGonzalez\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DanneyGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Data\\Roulette.Data.csproj": {
+                "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Data\\Roulette.Data.csproj"
+              },
+              "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj": {
+                "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Data\\Roulette.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Data\\Roulette.Data.csproj",
+        "projectName": "Roulette.Data",
+        "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Data\\Roulette.Data.csproj",
+        "packagesPath": "C:\\Users\\DanneyGonzalez\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DanneyGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj": {
+                "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj",
+        "projectName": "Roulette.Entities",
+        "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj",
+        "packagesPath": "C:\\Users\\DanneyGonzalez\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DanneyGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\RouletteMezubo\\RouletteMezubo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\RouletteMezubo\\RouletteMezubo.csproj",
+        "projectName": "RouletteMezubo",
+        "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\RouletteMezubo\\RouletteMezubo.csproj",
+        "packagesPath": "C:\\Users\\DanneyGonzalez\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\RouletteMezubo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DanneyGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Business\\Roulette.Business.csproj": {
+                "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Business\\Roulette.Business.csproj"
+              },
+              "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj": {
+                "projectPath": "D:\\Documentos\\PROYECTOS .NET\\RouletteMezubo\\Roulette.Entities\\Roulette.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

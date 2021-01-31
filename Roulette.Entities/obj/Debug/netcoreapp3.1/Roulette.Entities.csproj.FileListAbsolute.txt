@@ -1,0 +1,25 @@
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.deps.json
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.dll
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.pdb
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.AssemblyInfoInputs.cache
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.AssemblyInfo.cs
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.dll
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.pdb
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.deps.json
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.dll
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.pdb
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.csprojAssemblyReference.cache
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.AssemblyInfoInputs.cache
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.AssemblyInfo.cs
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.csproj.CoreCompileInputs.cache
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.dll
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.pdb
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.deps.json
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.dll
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\bin\Debug\netcoreapp3.1\Roulette.Entities.pdb
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.csprojAssemblyReference.cache
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.AssemblyInfoInputs.cache
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.AssemblyInfo.cs
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.csproj.CoreCompileInputs.cache
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.dll
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Entities\obj\Debug\netcoreapp3.1\Roulette.Entities.pdb

@@ -1,0 +1,35 @@
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.deps.json
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.dll
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.pdb
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Entities.dll
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Entities.pdb
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csprojAssemblyReference.cache
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.AssemblyInfoInputs.cache
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.AssemblyInfo.cs
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csproj.CopyComplete
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.dll
+C:\Users\ext_dgonzalez\source\repos\Roulette\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.pdb
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.deps.json
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.dll
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.pdb
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Entities.dll
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Entities.pdb
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csprojAssemblyReference.cache
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.AssemblyInfoInputs.cache
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.AssemblyInfo.cs
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csproj.CopyComplete
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.dll
+D:\Documentos\PROYECTOS .NET\RoulettaMasiv-master\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.pdb
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.deps.json
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.dll
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Data.pdb
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Entities.dll
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\bin\Debug\netcoreapp3.1\Roulette.Entities.pdb
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csprojAssemblyReference.cache
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.AssemblyInfoInputs.cache
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.AssemblyInfo.cs
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.csproj.CopyComplete
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.dll
+D:\Documentos\PROYECTOS .NET\RouletteMezubo\Roulette.Data\obj\Debug\netcoreapp3.1\Roulette.Data.pdb
